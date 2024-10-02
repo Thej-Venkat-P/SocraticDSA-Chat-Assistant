@@ -1,3 +1,9 @@
+---
+title: SocraticDSA_Chat_Assistant
+app_file: SocraticChatLLm.py
+sdk: gradio
+sdk_version: 4.44.0
+---
 # Socratic Chat Assistant
 
 Socratic Chat Assistant is an interactive teaching assistant that uses the Socratic method to help students learn Data Structures and Algorithms. The assistant asks probing questions and guides the student to the answer instead of revealing it directly.
