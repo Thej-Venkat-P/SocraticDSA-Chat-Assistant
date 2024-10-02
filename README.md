@@ -17,12 +17,17 @@ Socratic Chat Assistant is an interactive teaching assistant that uses the Socra
 
 ## Usage
 
-1. Run the application:
+1. Intall the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+2. Run the application:
     ```sh
     python SocraticChatLLm.py
     ```
 
-2. Open your web browser and go to `http://127.0.0.1:8000/` to interact with the assistant.
+3. Open your web browser and go to `http://127.0.0.1:8000/` to interact with the assistant.
 
 ## Features
 
